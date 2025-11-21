@@ -66,7 +66,7 @@ Incident Contract: 0x07Bc74258668113A0116ac51FB3053108a633DaD
 Integration with PPT Token deployed on Hedera testnet: https://hashscan.io/testnet/contract/0.0.7134953/abi 
 
 
-### 2. PPTToken (HTS Compatible)
+### 2. PPT Token (Park Plus Token)
 
 - **Purpose:** ERC-20 compatible reward token that integrates with Hedera Token Service (HTS). This token incentivizes quality incident reports and community participation. The token can be earned through verified incident reports and used within the SafeRoads ecosystem.
 
@@ -77,6 +77,8 @@ https://hashscan.io/testnet/contract/0.0.6880534/abi
 
 Spare Parts invoice contract - 0x5eb317fFb88031783937C5cc2AF1E69F35D7038B 
 https://hashscan.io/testnet/contract/0.0.6880534/abi
+
+Website: https://park-token-deploy.vercel.app/
 
 Deployment Instructions: please visit https://github.com/seetadev/foundry-setup-contracts-Storacha?tab=readme-ov-file#deploy-to-hedera-testnet for PPT Token deployment on Hedera testnet using Foundry.
 
