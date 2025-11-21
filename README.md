@@ -72,7 +72,7 @@ Integration with PPT Token deployed on Hedera testnet: https://hashscan.io/testn
 
 - PPT token deployment on Hedera testnet using Foundry
 
-ppt token on hedera testnet - 0xEF3E68FE835BF43c9C915925fB6b433576A8EF1b 
+PPT token on hedera testnet - 0xEF3E68FE835BF43c9C915925fB6b433576A8EF1b 
 https://hashscan.io/testnet/contract/0.0.6880534/abi 
 
 Spare Parts invoice contract - 0x5eb317fFb88031783937C5cc2AF1E69F35D7038B 
